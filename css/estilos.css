@@ -21,7 +21,6 @@ body{
 .menu-header{
     background-color: var(--backgrocolorpadrao2);
     max-width: 100%;
-    min-width: 320px;
 
 }
 
